@@ -2,6 +2,10 @@
     ===== Código de TypeScript =====
 */
 
+class PersonaNormal{
+    constructor(public nombre: string, public direccion: string){}
+}
+
 class Heroe{
     //alterEgo: string;
     //edad: number;
